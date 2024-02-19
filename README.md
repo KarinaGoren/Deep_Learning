@@ -1,1 +1,3 @@
 # Deep_Learning
+
+This PyTorch project focuses on building a neural network for the MNIST dataset, which consists of grayscale images of handwritten digits. The project entails tasks such as network construction, hyperparameter optimization, loss function visualization, and overfitting prevention. Notable aspects include defining the network architecture, experimenting with hyperparameters for optimal performance, visualizing loss functions for training and validation, and implementing techniques to prevent overfitting. These efforts aim to develop an efficient model for digit classification while exploring key aspects of neural network design and optimization.
